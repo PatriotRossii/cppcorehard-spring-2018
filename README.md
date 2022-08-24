@@ -2,7 +2,7 @@
 
 Slides for C++ Corehard Spring 2018 conference
 
-# Contents
+## Contents
 
 1. [Objects? No thanks!](https://github.com/PatriotRossii/cppcorehard-spring-2018/blob/master/slides/objects-no-thanks.pdf) [English]
 2. [25 years of C++ history flashed in front of my eyes](https://github.com/PatriotRossii/cppcorehard-spring-2018/blob/master/slides/25-c-102125042.pdf) [Russian]
